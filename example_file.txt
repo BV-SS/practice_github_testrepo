@@ -4,7 +4,6 @@
 3.bananas
 4.cherries
 5.carrots
-6.radish
 7.mangoes
 8.strawberries
 9.blueberries
