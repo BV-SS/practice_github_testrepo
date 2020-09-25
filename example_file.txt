@@ -1,0 +1,7 @@
+//item list
+1.applles
+2.oranges
+3.bananas
+4.cherries
+5.carrots
+6.radish
