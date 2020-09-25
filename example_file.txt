@@ -1,7 +1,8 @@
 //item list
-1.applles
+1.apples
 2.oranges
 3.bananas
 4.cherries
 5.carrots
 6.radish
+7.mangoes
